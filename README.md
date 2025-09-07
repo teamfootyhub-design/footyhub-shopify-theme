@@ -1,0 +1,1 @@
+# footyhub-shopify-theme
